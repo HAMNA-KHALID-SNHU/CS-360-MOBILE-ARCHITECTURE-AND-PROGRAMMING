@@ -26,23 +26,23 @@ This repository contains coursework from CS-360 at Southern New Hampshire Univer
 
 # Contents
 
-Inventory Management Application
-User Authentication System
-SQLite Database Integration
-RecyclerView Grid Display
-SMS Notification Permissions
-App Launch Plan (Optional)
+- Inventory Management Application
+- User Authentication System
+- SQLite Database Integration
+- RecyclerView Grid Display
+- SMS Notification Permissions
+- App Launch Plan (Optional)
 
 
 # Technologies Used
 
-Java
-Android Studio
-SQLite
-RecyclerView
-Android SDK
-ConstraintLayout
-Runtime Permission Handling
+- Java
+- Android Studio
+- SQLite
+- RecyclerView
+- Android SDK
+- ConstraintLayout
+- Runtime Permission Handling
 
 ---
 
@@ -52,7 +52,7 @@ This repository contains selected artifacts from CS-360: Mobile Architecture and
 
 Included Artifact:
 
-Project Three: Completed App Code Design (ZIP File)
+* Project Three: Completed App Code Design (ZIP File)
 
 This artifact demonstrates end-to-end development from UI planning (Project Two) through backend implementation and launch planning (Project Three).
 
@@ -138,14 +138,14 @@ Successfully integrating these systems demonstrated my ability to build structur
 
 # What This Repository Demonstrates
 
-User-centered mobile application design
-Authentication system implementation
-SQLite database integration
-CRUD functionality
-Runtime permission handling
-Incremental development practices
-Structured debugging and emulator testing
-Launch planning and deployment awareness
+* User-centered mobile application design
+* Authentication system implementation
+* SQLite database integration
+* CRUD functionality
+* Runtime permission handling
+* Incremental development practices
+* Structured debugging and emulator testing
+* Launch planning and deployment awareness
 
 This repository represents competency in building a functional Android application using disciplined architecture and structured development practices.
 
@@ -156,4 +156,3 @@ This repository represents competency in building a functional Android applicati
 Generative AI tools were used to assist in refining written reflections for clarity, organization, and formatting. All technical implementation, architectural decisions, and development work reflect my independent work completed throughout the course.
 
 ---
-You’ve now documented two strong portfolio repositories. That’s serious progress.
