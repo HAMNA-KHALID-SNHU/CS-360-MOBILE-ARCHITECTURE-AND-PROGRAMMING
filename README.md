@@ -24,7 +24,7 @@ Monday, April 20, 2026
 
 This repository contains coursework from CS-360 at Southern New Hampshire University.
 
-# Contents
+## Contents
 
 - Inventory Management Application
 - User Authentication System
@@ -34,7 +34,7 @@ This repository contains coursework from CS-360 at Southern New Hampshire Univer
 - App Launch Plan (Optional)
 
 
-# Technologies Used
+## Technologies Used
 
 - Java
 - Android Studio
@@ -46,7 +46,7 @@ This repository contains coursework from CS-360 at Southern New Hampshire Univer
 
 ---
 
-Repository Overview
+# Repository Overview
 
 This repository contains selected artifacts from CS-360: Mobile Architecture and Programming. The included files demonstrate my ability to design and implement a fully functional Android mobile application using structured architecture, persistent database storage, user authentication, runtime permissions, and user-centered interface design.
 
@@ -62,14 +62,14 @@ Together, these artifacts showcase both technical implementation and strategic a
 
 # Reflection
 
-# Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
+## Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
 
 The Inventory Management Application was developed to provide a structured and reliable method for tracking inventory items. The app allows users to create secure login credentials, manage inventory records, and receive alerts when item quantities reach zero.
 
 The primary user need addressed was efficient inventory tracking with persistent storage and notification handling. The application was designed to reduce manual tracking errors and provide immediate visibility into inventory status.
 
 
-# What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
+## What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
 
 The application required:
 
@@ -84,7 +84,7 @@ The UI was designed with clarity and minimalism in mind. Layout hierarchy was st
 The designs were successful because they prioritized workflow efficiency and reduced unnecessary complexity.
 
 
-# How did you approach the process of coding your app? What techniques or strategies did you use? How could those techniques or strategies be applied in the future?
+## How did you approach the process of coding your app? What techniques or strategies did you use? How could those techniques or strategies be applied in the future?
 
 I approached development incrementally. Rather than implementing all functionality at once, I built and tested one feature at a time.
 
@@ -98,21 +98,23 @@ Using meaningful naming conventions and structured comments
 
 This incremental approach prevented integration failures and improved stability. In future projects, especially those involving APIs or cloud services, this method will help manage complexity and maintain code clarity.
 
-# How did you test to ensure your code was functional? Why is this process important, and what did it reveal?
+
+## How did you test to ensure your code was functional? Why is this process important, and what did it reveal?
 
 Testing was performed continuously using the Android Emulator.
 
 I verified:
 
-Account creation and login validation
-Database persistence after closing and reopening the app
-Create, Read, Update, and Delete (CRUD) functionality
-SMS permission request behavior
-App stability when permissions were denied
+* Account creation and login validation.
+* Database persistence after closing and reopening the app.
+* Create, Read, Update, and Delete (CRUD) functionality.
+* SMS permission request behavior.
+* App stability when permissions were denied.
 
 Continuous testing is important because it reveals logical errors early. It also ensures that edge cases, such as permission denial, do not compromise core functionality. This process strengthened the reliability of the final application.
 
-# Where did you have to innovate to overcome a challenge?
+
+## Where did you have to innovate to overcome a challenge?
 
 One of the main challenges was integrating runtime SMS permissions while ensuring that denial of permission did not disrupt core application functionality.
 
@@ -121,16 +123,16 @@ To address this, I separated permission logic from database and authentication o
 This required structured conditional handling and reinforced the importance of defensive programming.
 
 
-# In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
+## In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
 
 The integration of authentication, SQLite database management, and RecyclerView display was the strongest demonstration of my skills.
 
 This component required:
 
-Designing relational database tables
-Writing structured SQL queries
-Managing ContentValues and Cursor objects
-Updating UI dynamically based on database changes
+* Designing relational database tables.
+* Writing structured SQL queries.
+* Managing ContentValues and Cursor objects.
+* Updating UI dynamically based on database changes.
 
 Successfully integrating these systems demonstrated my ability to build structured, persistent, and user-centered mobile applications.
 
