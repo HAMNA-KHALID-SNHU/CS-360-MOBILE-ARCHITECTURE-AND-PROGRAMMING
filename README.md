@@ -1,18 +1,18 @@
 # CS-360 Mobile Architecture and Programming
 
-# Module 8
+## Module 8
 
-# GitHub Repository
+## Github Repository
 
-# Submitted By:
+### Submitted By:
 
-# Hamna Khalid
+**Hamna Khalid**
 
 hamna.khalid@snhu.edu
 
-# Submitted To:
+### Submitted To:
 
-# Professor Dr. William Smith
+**Professor Dr. William Smith**
 
 w.smith8@snhu.edu
 
