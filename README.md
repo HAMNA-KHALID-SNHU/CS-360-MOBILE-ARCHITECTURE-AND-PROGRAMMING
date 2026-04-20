@@ -1,4 +1,4 @@
-# CS-360: Mobile Architecture and Programming
+# CS-360: Mobile Architecture And Programming
 
 ## Module 8
 
